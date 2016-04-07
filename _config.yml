@@ -1,0 +1,28 @@
+name: ripj
+favicon: null
+layout_spectrum: 0.41315296199172735
+typography_spectrum: 0.28925252170301974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21194269508123398
+  lightness: 0.16524176765233278
+  saturation: 0.2891176654957235
+  rhythmicContrast: 0.6676810409408063
+purpose: []
